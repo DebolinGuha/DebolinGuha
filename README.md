@@ -27,7 +27,7 @@
   </a>
   <!-- Looker Studio -->
   <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Looker-studio-logo.png/600px-Looker-studio-logo.png" alt="Looker Studio" width="40" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Looker-studio-logo.png/600px-Looker-studio-logo.png](https://4203549.fs1.hubspotusercontent-na1.net/hubfs/4203549/__hs-marketplace__/looker%20studio%20(2)(2)-1.png)" alt="Looker Studio" width="40" height="40"/>
   </a>
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -70,6 +70,3 @@
     <em>Tools used: Excel (Power Query, Pivot Tables, Charts)</em>
   </li>
 </ul>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debolinguha&show_icons=true&locale=en&layout=compact" alt="debolinguha" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=debolinguha&show_icons=true&locale=en" alt="debolinguha" /></p>
