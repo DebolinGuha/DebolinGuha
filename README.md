@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debolin Guha</h1>
-<h3 align="center">A passionate Data Analyst from Kolkata</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,10 +24,6 @@
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  </a>
-  <!-- Looker Studio -->
-  <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Looker-studio-logo.png/600px-Looker-studio-logo.png](https://4203549.fs1.hubspotusercontent-na1.net/hubfs/4203549/__hs-marketplace__/looker%20studio%20(2)(2)-1.png)" alt="Looker Studio" width="40" height="40"/>
   </a>
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -70,3 +66,6 @@
     <em>Tools used: Excel (Power Query, Pivot Tables, Charts)</em>
   </li>
 </ul>
+
+<h3 align="left">🎵 Outside of Work:</h3>
+<p align="left">I'm also a musician and passionate about creating and performing music.</p>
