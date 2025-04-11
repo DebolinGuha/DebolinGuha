@@ -61,7 +61,7 @@
   </li>
   <br/>
   <li>
-    <strong>Mediland Hospital Healthcare Data Analysis (Advanced Excel)</strong><br/>
+    <strong>Hospital Healthcare Data Analysis (Advanced Excel)</strong><br/>
     Cleaned, analyzed, and visualized healthcare data using advanced Excel techniques to provide actionable insights into hospital operations, patient distribution, and departmental performance.<br/>
     <em>Tools used: Excel (Power Query, Pivot Tables, Charts)</em>
   </li>
