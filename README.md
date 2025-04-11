@@ -70,6 +70,7 @@
 <h3 align="left">🎵 Outside of Work:</h3>
 <p align="left">I'm also a musician and passionate about creating and performing music.</p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQxbDhkNm80NGR5M3dsNmNlNzIzdHdsd3FqZ3hhbHdhdHZ2OWdzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Anime Guitar Gif"/>
-
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*oDqXedYUMyhWzN48pUjHyw.gif" width="400" alt="Anime Guitar Gif"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQxbDhkNm80NGR5M3dsNmNlNzIzdHdsd3FqZ3hhbHdhdHZ2OWdzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Anime Guitar Gif"/>
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*oDqXedYUMyhWzN48pUjHyw.gif" width="400" alt="Anime Guitar Gif"/>
+</div>
